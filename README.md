@@ -81,8 +81,4 @@ location / {
  `sudo service nginx reload`
  
  v2.0
- v5050325
- 234523
- 245234
-345
 
