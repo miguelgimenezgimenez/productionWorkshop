@@ -79,6 +79,6 @@ location / {
 
 
  `sudo service nginx reload`
- 
+
  v2.0
 
