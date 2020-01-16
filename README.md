@@ -15,7 +15,6 @@ UPDATE PACKAGES TO BE ABLE TO INSTALL
 `sudo apt-get update`
 
 
-
 **NODE**
 
 INSTALL NODE
@@ -80,4 +79,5 @@ location / {
 
 
  `sudo service nginx reload`
+ v2.0
 
