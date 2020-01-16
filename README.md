@@ -80,4 +80,4 @@ location / {
 
  `sudo service nginx reload`
 
-
+v3.0
