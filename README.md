@@ -42,7 +42,7 @@ install specific most recent version of node
 
 `sudo mkdir -p /var/www`
 
- `git clone https://github.com/young/Dev-Ops-for-Frontend.git`
+ `git clone https://github.com/miguelgimenezgimenez/productionWorkshop.git`
 
 **Install dependencies and build client:**
 
