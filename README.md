@@ -10,8 +10,6 @@ CONNECT TO VIRTUAL MACHINE:
 
 `ssh -i ~/.ssh/id_rsa root@{IP}`
 
-
-
 UPDATE PACKAGES TO BE ABLE TO INSTALL
 
 `sudo apt-get update`
